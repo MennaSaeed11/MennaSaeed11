@@ -35,7 +35,7 @@
 
 ###
 <p align="center">
-  <a href="https://linkedin.com/in/menna2002" target="_blank">
+  <a href="https://linkedin.com/in/MennaSaeed11" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </p>
