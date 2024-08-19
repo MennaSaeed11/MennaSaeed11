@@ -5,7 +5,7 @@
 
 - 🌱 **I’m currently learning** `Deep learning` `IoT`
 
-- ✉ **How to reach me:** mennasaed111@gmail.com
+- ✉ **How to reach me:** mennaallah.saeed11@gmail.com
 
 ### 📈 Languages and Tools:
 [<img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" height="30">](https://developer.mozilla.org/en-US/docs/Web/javascript)
