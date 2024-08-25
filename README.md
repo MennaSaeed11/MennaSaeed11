@@ -25,6 +25,7 @@
 [<img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="30">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"/>](https://www.arduino.cc/)
 [<img src="https://skillicons.dev/icons?i=c" alt="c logo" height="30">](https://www.learn-c.org/)
+[<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" height="30">](https://cplusplus.com/)
 
 ### 📫 Social :
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
