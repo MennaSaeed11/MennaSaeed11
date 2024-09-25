@@ -20,7 +20,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="30">](https://www.tensorflow.org/)
 [<img src="https://skillicons.dev/icons?i=r" alt="R logo" height="30">](https://www.r-project.org/)
 [<img src="https://skillicons.dev/icons?i=java" alt="Java logo" height="30">](https://www.java.com/en/)
-[<img src="https://skillicons.dev/icons?i=processing" alt="Processing logo" height="30">](https://processing.org/)
 [<img src="https://skillicons.dev/icons?i=git" alt="Git logo" height="30">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"/>](https://www.arduino.cc/)
 [<img src="https://skillicons.dev/icons?i=c" alt="c logo" height="30">](https://www.learn-c.org/)
