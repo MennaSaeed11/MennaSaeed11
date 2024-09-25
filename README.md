@@ -10,7 +10,6 @@
 ### 📈 Languages and Tools:
 [<img src="https://skillicons.dev/icons?i=js" alt="JavaScript logo" height="30">](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap logo" height="30">](https://getbootstrap.com/) 
-[<img src="https://skillicons.dev/icons?i=angular" alt="Angular logo" height="30">](https://angular.dev/)
 [<img src="https://skillicons.dev/icons?i=php" alt="PHP logo" height="30">](https://www.php.net/) 
 [<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL logo" height="30">](https://www.mysql.com/)
 [<img src="https://skillicons.dev/icons?i=py" alt="Python logo" height="30">](https://www.python.org/)
