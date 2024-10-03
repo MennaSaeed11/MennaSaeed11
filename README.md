@@ -4,6 +4,7 @@
 <h3 align="center">Data Science Student</h3>
 
 <img align="right" width='400' src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif" />
+&nbsp;
 
 - 🌱 **I’m currently learning** `Deep learning` `IoT`
 
@@ -31,7 +32,6 @@
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30">](https://linkedin.com/in/menna2002) 
 [<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30">](https://twitter.com/mennasaed111) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30">](https://kaggle.com/mennaallahsaed) 
-
 ###
 <p align="center">
   <a href="https://linkedin.com/in/MennaSaeed11" target="_blank">
