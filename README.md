@@ -5,7 +5,7 @@
 &nbsp;
 
 - 🌱 **I’m currently learning** `Deep learning` `IoT`
-
+- 📄 **Know about my experiences:** [CV](https://alexuuni-my.sharepoint.com/:b:/g/personal/cds_mennatullah71722_alexu_edu_eg/EUFnbCNMGl9CipaDv1yNV4cBY10lTULR0oV5lv3bpS0iiw?e=irnpKM)
 - ✉ **How to reach me:** mennaallah.saeed11@gmail.com
 
 ### 📈 Languages and Tools:
